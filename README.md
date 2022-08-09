@@ -41,6 +41,7 @@ Implementation steps:
     
 Which metric is the best to compare performance, accuracy or the confusion 
 matrix?
+
     - Accuracy performance metrics can be critical when dealing with imbalanced data and 
       overfitting.
     
@@ -54,6 +55,7 @@ matrix?
       
    
  Conclusion:
+ 
       - During this assignment we learned how to apply different classification techniques, such as 
          decision tree classifier, and apply bagging and boosting with the best estimator and learning 
          rate.
